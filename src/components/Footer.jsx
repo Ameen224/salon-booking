@@ -14,8 +14,9 @@ function Footer() {
                         <a href="#" className="social-icon"><i className="fab fa-twitter"></i></a>
                         <a href="#" className="social-icon"><i className="fab fa-youtube"></i></a>
                     </div>
+
                 </div>
-                
+
                 <div className="footer-section">
                     <h3>Quick Links</h3>
                     <ul className="footer-links">
@@ -26,7 +27,7 @@ function Footer() {
                         <li><a href="#"><i className="fas fa-chevron-right"></i> Privacy Policy</a></li>
                     </ul>
                 </div>
-                
+
                 <div className="footer-section">
                     <h3>Contact Us</h3>
                     <div className="footer-contact">
@@ -37,9 +38,9 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            
+
             <div className="footer-bottom">
-                <p>&copy; 2023 SalonBook. All rights reserved. 
+                <p>&copy; 2023 SalonBook. All rights reserved.
                     <span className="kozhikode-badge">Proudly serving Kozhikode</span>
                 </p>
             </div>
